@@ -1,0 +1,3 @@
+rootProject.name = 'NiceRadio'
+
+include ':app'
